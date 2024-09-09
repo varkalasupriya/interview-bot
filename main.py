@@ -26,7 +26,7 @@ load_dotenv()
 app = FastAPI()
 
 ## VARIABLES
-TOTAL_QUESTIONS = 5
+TOTAL_QUESTIONS = 6
  
 # token for pocketbase
 auth_token = None
