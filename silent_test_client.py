@@ -15,7 +15,7 @@ from TTS.api import TTS
 import uuid
  
 ## VARIABLES
-TOTAL_QUESTIONS = 10
+TOTAL_QUESTIONS = 6
  
 ## Initialize session state attributes if they don't exist
 if "pdf_flag" not in st.session_state:
